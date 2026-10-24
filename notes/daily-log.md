@@ -5,3 +5,5 @@
 - 卡点：git push 报 SSL 证书错误 → 用 `git config --global http.sslBackend schannel` 解决
 - 卡点：GitHub 认证不能用账号密码 → 用浏览器 OAuth 授权
 - 决定：笔记本仓库内 `notes/`，代码在哪笔记就在哪
+- Scanner从键盘输入
+- 用暴力枚举解决两数之和
